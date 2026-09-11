@@ -1,0 +1,22 @@
+# Backend (Java/Maven)
+backend/target/
+backend/*.class
+backend/.idea/
+backend/*.iml
+
+# Frontend (Node)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# AI service (Python)
+ai-service/__pycache__/
+ai-service/*.pyc
+ai-service/model.pkl
+ai-service/venv/
+ai-service/.venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+*.log
